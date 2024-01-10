@@ -1,0 +1,2 @@
+In pairs information on exchange info on status and trading restrictions: what do these parameters mean?
+'minPrice': '0.00001000', 'maxPrice': '922327.00000000', 'tickSize': '0.00001000'
